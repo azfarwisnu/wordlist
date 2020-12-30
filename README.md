@@ -1,2 +1,2 @@
 # worlist
-worlist
+wordlist
